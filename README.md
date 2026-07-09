@@ -1,4 +1,5 @@
 # 🤖 HireGen AI - Multi-Agent Recruitment & Interactive Proctoring Platform
+Link for website-https://hiregen-ai.up.railway.app/
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github&style=flat-square)](https://github.com/gokul27108/HireGen-AI)
 [![Spring Boot](https://img.shields.io/badge/Spring--Boot-v3.x-brightgreen?logo=springboot&style=flat-square)](https://spring.io/projects/spring-boot)
@@ -139,7 +140,7 @@ SOURCE database/seed.sql;
 
 - **Recruiter Workspace**:
   - **Email**: `example@gmail.com`
-  - **Password**: `123456`
+  - **Password**: `******`
 - **Candidate Workspace**:
   - Click **Register** on the sign-up page to create a new profile instantly.
   - Or log in with preloaded seed candidate: `alice.smith@example.com` (password: `password`).
